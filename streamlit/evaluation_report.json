@@ -1,0 +1,6 @@
+{
+  "dataset": "eventarena_synthetic_intents.csv",
+  "intent_labels": ["sport", "concert", "festival", "cheap", "help", "exit", "out_of_scope"],
+  "threshold": 0.30,
+  "evaluation_note": "This folder's app trains the model on first run. Evaluate on a held-out split using train_classifier.py before reporting accuracy. Synthetic-data performance does not establish real-world performance."
+}
