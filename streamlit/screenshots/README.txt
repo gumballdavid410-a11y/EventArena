@@ -1,0 +1,1 @@
+Add genuine screenshots of the deployed app here. Required evidence: greeting/name rules, three classifier-routed intents, out-of-scope fallback, and two separate browser conversations. Do not submit fabricated screenshots.
