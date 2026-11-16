@@ -1,0 +1,71 @@
+text,intent
+Show me upcoming sports matches,sport
+I want to watch a football game,sport
+Are there any tennis fixtures soon,sport
+Find competitive matches for me,sport
+What sporting events are scheduled,sport
+Where can I see a live match,sport
+List the next football fixtures,sport
+I would like tickets for a big game,sport
+Find a basketball match,sport
+Tell me about a tennis tournament,sport
+Show me upcoming concerts,concert
+I want to hear live music,concert
+Find a gig for this weekend,concert
+Are any bands performing soon,concert
+Where can I see a singer live,concert
+What are the next concert dates,concert
+Tell me about upcoming music tours,concert
+Find an evening with a live band,concert
+I am looking for an orchestra concert,concert
+Show live entertainment with musicians,concert
+Show me upcoming music festivals,festival
+I want to attend an outdoor festival,festival
+Find a weekend festival,festival
+Are there electronic music gatherings,festival
+Where is the next open air music event,festival
+List the upcoming festivals,festival
+I am looking for a multi artist festival,festival
+Find a dance festival for me,festival
+I want a full day of music outdoors,festival
+What festivals are happening soon,festival
+Find events that cost less than fifty dollars,cheap
+I need an inexpensive event,cheap
+Show me low price tickets,cheap
+What can I attend on a small budget,cheap
+Find affordable things to do,cheap
+Are there events for under 50,cheap
+Show budget friendly event options,cheap
+Which events are the cheapest,cheap
+Find low cost entertainment,cheap
+Show events priced at fifty dollars or less,cheap
+What can you do for me,help
+How do I use this event service,help
+Please explain your features,help
+I need instructions,help
+Can you guide me through the options,help
+What kinds of events can you find,help
+Show me how this chatbot works,help
+I am not sure what to ask,help
+Tell me what services are available,help
+How can you help me discover events,help
+I want to end this conversation,exit
+Please close our chat,exit
+Goodbye for now,exit
+I am finished using EventArena,exit
+Stop this conversation please,exit
+I would like to leave,exit
+End the session,exit
+Close this chat window,exit
+I have finished browsing,exit
+Let's stop here,exit
+Explain how photosynthesis works,out_of_scope
+What is the capital of Japan,out_of_scope
+Can you solve this algebra equation,out_of_scope
+Tell me a joke about computers,out_of_scope
+How do I bake sourdough bread,out_of_scope
+What is the weather forecast tomorrow,out_of_scope
+Write a poem about the ocean,out_of_scope
+Help me debug a Java program,out_of_scope
+What is the best way to learn French,out_of_scope
+Explain quantum mechanics,out_of_scope
